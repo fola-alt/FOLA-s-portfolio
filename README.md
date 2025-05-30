@@ -7,7 +7,7 @@ This is a personal portfolio website built to showcase the work, skills, and bac
 ---
 ## 🔗 Live Demo
 
-[Click here to view the live demo](https://adelefolasayo.github.io/portfolio-site/)
+Click here to view the live demo([https://fola-alt.github.io/FOLA-s-portfolio/](https://fola-alt.github.io/FOLA-s-portfolio)
 
 ## ✨ Features Implemented
 
